@@ -1,0 +1,21 @@
+onset	duration	sample	value	event_code	feedback
+0	n/a	0	break cnt	break cnt	n/a
+66.24	n/a	33120	contrastChangeB1_start	94	n/a
+72.29	n/a	36145	contrastTrial_start	5	n/a
+75.088	n/a	37544	right_target	9	n/a
+76.838	n/a	38419	right_buttonPress	13	smiley_face
+77.488	n/a	38744	contrastTrial_start	5	n/a
+80.288	n/a	40144	right_target	9	n/a
+81.758	n/a	40879	right_buttonPress	13	smiley_face
+82.688	n/a	41344	contrastTrial_start	5	n/a
+87.088	n/a	43544	right_target	9	n/a
+89.118	n/a	44559	right_buttonPress	13	smiley_face
+89.49	n/a	44745	contrastTrial_start	5	n/a
+95.49	n/a	47745	right_target	9	n/a
+97.03	n/a	48515	right_buttonPress	13	smiley_face
+97.89	n/a	48945	contrastTrial_start	5	n/a
+100.69	n/a	50345	left_target	8	n/a
+103.09	n/a	51545	contrastTrial_start	5	n/a
+105.89	n/a	52945	right_target	9	n/a
+107.8	n/a	53900	right_buttonPress	13	smiley_face
+108.29	n/a	54145	contrastTrial_start	5	n/a
