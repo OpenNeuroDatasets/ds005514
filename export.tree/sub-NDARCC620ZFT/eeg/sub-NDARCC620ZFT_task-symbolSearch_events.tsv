@@ -1,0 +1,16 @@
+onset	duration	sample	value	event_code	user_answer	correct_answer
+0	n/a	0	break cnt	break cnt	n/a	n/a
+162.636	n/a	81318	symbolSearch_start	92	n/a	n/a
+165.568	n/a	82784	newPage	20	n/a	n/a
+180.03	n/a	90015	trialResponse	14	0	0
+187.524	n/a	93762	trialResponse	14	1	1
+196.784	n/a	98392	trialResponse	14	0	0
+209.366	n/a	104683	trialResponse	14	0	0
+218.966	n/a	109483	trialResponse	14	0	0
+229	n/a	114500	trialResponse	14	1	1
+235.856	n/a	117928	trialResponse	14	0	0
+270.96	n/a	135480	trialResponse	14	1	1
+279.832	n/a	139916	trialResponse	14	0	0
+299.384	n/a	149692	trialResponse	14	1	0
+299.394	n/a	149697	newPage	20	n/a	n/a
+310.621	n/a	155310.5	boundary	boundary	n/a	n/a
